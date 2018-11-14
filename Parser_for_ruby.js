@@ -7,8 +7,8 @@ function split(){
  "!=":true,
  ">=":true,
  "<=":true,
- "»":true,
- "«":true,
+ "Â»":true,
+ "Â«":true,
  "&&":true,
  "||":true,
  "+=":true,
@@ -74,8 +74,8 @@ j++;
 }
 }
 }
-console.log("CL ïğîãğàììû: "+CL);
-console.log("Êîëè÷åñòâî îïåğàòîğîâ ïğîãğàììû: "+count);
-console.log("cl ïğîãğàììû: "+((CL/count).toFixed(2)));
-console.log("Ìàêñèìàëüíàÿ âëîæåííîñòü ïğîãğàììû: "+(max-2));
+console.log("CL Ğ¿Ñ€Ğ¾Ğ³Ñ€Ğ°Ğ¼Ğ¼Ñ‹: "+CL);
+console.log("ĞšĞ¾Ğ»Ğ¸Ñ‡ĞµÑÑ‚Ğ²Ğ¾ Ğ¾Ğ¿ĞµÑ€Ğ°Ñ‚Ğ¾Ñ€Ğ¾Ğ² Ğ¿Ñ€Ğ¾Ğ³Ñ€Ğ°Ğ¼Ğ¼Ñ‹: "+count);
+console.log("cl Ğ¿Ñ€Ğ¾Ğ³Ñ€Ğ°Ğ¼Ğ¼Ñ‹: "+((CL/count).toFixed(2)));
+console.log("ĞœĞ°ĞºÑĞ¸Ğ¼Ğ°Ğ»ÑŒĞ½Ğ°Ñ Ğ²Ğ»Ğ¾Ğ¶ĞµĞ½Ğ½Ğ¾ÑÑ‚ÑŒ Ğ¿Ñ€Ğ¾Ğ³Ñ€Ğ°Ğ¼Ğ¼Ñ‹: "+ max);
 }
